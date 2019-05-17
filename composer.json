@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lincanbin/php-pdo-mysql-class": "^2.0"
+    }
+}

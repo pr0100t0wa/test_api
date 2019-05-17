@@ -1,1 +1,2 @@
-# test_api
+1) git clone
+2) composer install
